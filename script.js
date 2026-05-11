@@ -47,6 +47,19 @@ const soundList = [
 	{ text: "Chtěli vyjebávat", file: "vyjebavat.wav" },
 	{ text: "Mám ženu a děti", file: "zena_deti.wav" },
 	{ text: "Zkurvysyn", file: "zkurvysyn.wav" },
+	{ text: "Big Dick", file: "bigdik.wav" },
+	{ text: "Bongiornoo!", file: "bongiorno.wav" },
+	{ text: "Do mě se nikdo srát nebude", file: "do_me_se_srat_nebude.wav" },
+	{ text: "Chcípneš teplouši", file: "chcipnesteplo.wav" },
+	{ text: "Já jedu taky", file: "jedutaky.wav" },
+	{ text: "Ježišmarja", file: "jezismarja.wav" },
+	{ text: "Měj se", file: "mej_se.wav" },
+	{ text: "Takhle jim neujedem", file: "neujedem.wav" },
+	{ text: "Protéza", file: "proteza.wav" },
+	{ text: "Řídit bude kdo?", file: "riditbudekdo.wav" },
+	{ text: "Si v prdeli", file: "sivprdeli.wav" },
+	{ text: "Tlustej bastard", file: "tlustejbastard.wav" },
+	{ text: "Zblbnul", file: "zblbnul.wav" },
 ];
 
 const sounds = {};
